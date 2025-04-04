@@ -1,0 +1,19 @@
+# Compiled class files
+/target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Application properties with sensitive info
+# src/main/resources/application-prod.properties
+
+# Generated files
+.mvn/
